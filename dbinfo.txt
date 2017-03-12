@@ -1,0 +1,12 @@
+INFORMASI DATABASE TUTORIAL 'Membuat toko online dinamis dengan php dan ajax (part 1)'
+
+wdyw as column identity
+
+1 = products
+2 = category
+3 = order
+4 = testimonial
+5 = ads
+6 = pages
+7 = product images
+8 = cart / order
